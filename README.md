@@ -15,6 +15,7 @@ Each physical copy of the book is equipped with a unique QR code. When scanned f
 
 # Using the QR Book Application
 1- Scan a QR Code applied on the book.
+
 2- Login by using Email and Password click "Submit".
 
 Open the QR Book application.
